@@ -11,7 +11,7 @@ do
   then
     echo ${words[*]}
   else
-    words[i] = go
+    words[i]=$go
     let i=i+1
     echo "Length:" $i
    fi
