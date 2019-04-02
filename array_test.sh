@@ -15,4 +15,4 @@ do
     let i=i+1
     echo "Length:" $i
    fi
-then
+done
